@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Curren folder becomes a repository. I need to do it when I want to track changes of my project.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area is an imaginary place to temporary store the files I changed and need to commit later. It allows us to save time without having to commit one file at a time.
+
