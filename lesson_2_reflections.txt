@@ -14,3 +14,6 @@ What are some situations when branches would be helpful in keeping your history 
 
 Experimenting different ways. It keeps a master branch good for use and branch out the experimental codes. This way one can experiment different things and still have the central one fixed or one can try the same project but with different options like languages.
 
+How do the diagrams help you visualize the branch structure?
+
+It helps with visualizing the structure of master branch and how other branches split out at which commit time, why some commit is unreachable.
