@@ -17,3 +17,7 @@ Experimenting different ways. It keeps a master branch good for use and branch o
 How do the diagrams help you visualize the branch structure?
 
 It helps with visualizing the structure of master branch and how other branches split out at which commit time, why some commit is unreachable.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+It merges all the commit changes together into a single commit on the current checkout branch. 
