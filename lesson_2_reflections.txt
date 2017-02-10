@@ -21,3 +21,9 @@ It helps with visualizing the structure of master branch and how other branches 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 It merges all the commit changes together into a single commit on the current checkout branch. 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros of auto merging: fast and easy. Cons: might make mistake by deleting wanted change and leave unwanted ones.
+Cons of merging manually all the time: Time-consuming and tideous. Pros: Ensure no mistake of deleting out desired codes or leaving redudant codes.
+
