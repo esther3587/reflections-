@@ -12,4 +12,7 @@ forks: copy a repo from others and do whatever without changing the original rep
 clones: copy a repo from others and contribute to it
 branches: different set of the same repo project with only part of it changed as needed.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+As a backup in case there's a conflict between the files on the GitHub and the remote branch at local.
 
