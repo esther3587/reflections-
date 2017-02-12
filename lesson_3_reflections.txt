@@ -20,3 +20,7 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 Google Doc maybe. It would be easier to edit and look since we don't need to go through the version control steps. However, it would be impossible to do version control and conflict resolve. This is only applicable if we are working on something that doesn't need constant change so we may coordinate our working time and there has to be good communication between team members. 
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When I want to have a different version of project such as languages or experimental face. Benefit of branch is it can separate the changes, while benefit of master only is easy to maintain.
+
