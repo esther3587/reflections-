@@ -24,7 +24,6 @@ How can you use the commands git log and git diff to view the history of files?
 
 Use git log to find the history of files and git diff file_1 file_2 to find the difference
 
-
 How might using version control make you more confident to make changes that
 could break something?
 
@@ -33,6 +32,5 @@ If I break something I still have the older version which works and allow me to 
 Now that you have your workspace set up, what do you want to try using Git for?
 
 For my nanodegree projects. I used to just upload the whole finished files to Github so there were no commit history. Now I need to change that!
-
 
 
